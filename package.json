@@ -1,0 +1,21 @@
+{
+  "name": "node-chokidar-printer",
+  "version": "1.0.0",
+  "description": "Watch folder for new files and print automatically",
+  "main": "chokidar.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbashyal/node-chokidar-printer.git"
+  },
+  "keywords": [],
+  "author": "Damodar Bashyal",
+  "license": "ISC",
+  "homepage": "http://dltr.org",
+  "dependencies": {
+    "chokidar": "^1.4.3",
+    "fs": "0.0.2",
+    "path": "^0.12.7",
+    "printer": "^0.2.1"
+  }
+}
